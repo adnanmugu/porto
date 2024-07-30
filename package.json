@@ -1,0 +1,14 @@
+{
+  "name": "porto",
+  "version": "1.0.0",
+  "description": "personal portfolio web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "adnanmugu",
+  "license": "ISC"
+}
